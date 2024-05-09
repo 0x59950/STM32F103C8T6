@@ -1,2 +1,2 @@
-# STM32F103C8T6
-Porting various embedded operating systems to this MCU!
+# STM32F103C8T6_FreeRTOS
+Porting the FreeRTOS embedded operating system to STM32F103C8T6 Micro Control Unit!
